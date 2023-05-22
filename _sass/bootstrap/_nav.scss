@@ -4,6 +4,7 @@
 // `<nav>`s, `<ul>`s or `<ol>`s.
 
 .nav {
+  position: fixed;
   display: flex;
   flex-wrap: wrap;
   padding-left: 0;
