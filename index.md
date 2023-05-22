@@ -2,7 +2,7 @@
 title: Ifnti
 layout: home
 description: Bienvenue sur le site de l'IFNTI
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/campus/ifnti.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
