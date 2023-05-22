@@ -1,5 +1,4 @@
 .header {
-  position: fixed;
   color: $primary;
   background-color: #ffffff;
   display: flex;
@@ -22,7 +21,7 @@
 .lock-scroll {
   .header {
     &.header-absolute {
-      position: sticky;
+      position: fixed;
     }
   }
 }
