@@ -11,3 +11,4 @@ show_call_box: true
 # IFNTI - Institut de formation aux normes et technologies de l'informatique
 
 Sur ce site, vous trouverez toutes les informations concernant l'IFNTI
+Site en cours de maintenance...
