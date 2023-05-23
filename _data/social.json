@@ -1,12 +1,12 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/ifnti_dev",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/people/IFNTI-Sokod%C3%A9-Licence-informatique-LMD/100028389086679/",
+    "image": "images/social/facebook.svg"
   }
 ]
