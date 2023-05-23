@@ -8,8 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# **I**nstitut de **F**ormation aux **N**ormes et **T**echnologies de l'**I**nformatique  
+# *I*nstitut de *F*ormation aux *N*ormes et *T*echnologies de l'*I*nformatique  
 # IFNTI
 
 Sur ce site, vous trouverez toutes les informations concernant l'IFNTI   
-**Site en cours de maintenance...**
+> **Site en cours de maintenance...**
