@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# IFNTI - Institut de formation aux normes et technologies de l'informatique
+# IFNTI - **I**nstitut de **F**ormation aux **N**ormes et **T**echnologies de l'**I**nformatique
 
-Sur ce site, vous trouverez toutes les informations concernant l'IFNTI
-Site en cours de maintenance...
+Sur ce site, vous trouverez toutes les informations concernant l'IFNTI   
+**Site en cours de maintenance...**
