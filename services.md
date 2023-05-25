@@ -1,12 +1,18 @@
 ---
-title: Services
-layout: services
-description: Services
+title: Formation
+layout: formation
+description: Notre offre de fromation
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# La formation à l'IFNTI
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Nous proposons une licence en 6 semestres.
+voici un aperçu des cours que vous aurez à l'IFNTI:
+- Programmation python
+- Base de donnée
+- Réseaux
+- Systèmes
+
