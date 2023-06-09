@@ -1,6 +1,6 @@
 ---
 title: Formation
-layout: formation
+layout: formations
 description: Notre offre de fromation
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
