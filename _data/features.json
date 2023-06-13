@@ -4,8 +4,8 @@
     "description": "L'IFNTI transmet du savoir et du savoir-faire des technologies informatique en privilégiant le sens de la responsabilité",
     "image": {
       "url": "images/features/responsability.svg",
-      "width": 80,
-      "height": 80
+      "width": 100,
+      "height": 100
     }
   },
   {
@@ -13,8 +13,8 @@
     "description": "La transmission des compétences se trouve au coeur de l'enseignement à l'IFNTI",
     "image": {
       "url": "images/features/skill.svg",
-      "width": 80,
-      "height": 80
+      "width": 100,
+      "height": 100
     }
   },
   {
@@ -22,8 +22,8 @@
     "description": "participe ainsi à l'effort national en offrant à la sous région des formations de haute qualité, à la fois qualifiante pour des compétences techniques et diplômatne",
     "image": {
       "url": "images/features/excellence.svg",
-      "width": 80,
-      "height": 80
+      "width": 100,
+      "height": 100
     }
   }
 ]
