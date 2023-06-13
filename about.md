@@ -17,6 +17,7 @@ Voici la liste des organismes qui participe au développement de l'IFNTI.
 
 - GIZ
 - Togocom
+- Université de Kara
 - Sara Consult
 - La DCC
 - STE
@@ -24,3 +25,6 @@ Voici la liste des organismes qui participe au développement de l'IFNTI.
 - Knowbridge
 - ITplex
 - France Volontaires
+- L'univers d'arts
+
+<!-- ANPE ; ARETHES  -->;
