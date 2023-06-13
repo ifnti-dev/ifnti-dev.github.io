@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Responsablité",
+    "description": "L'IFNTI transmet du savoir et du savoir-faire des technologies informatique en privilégiant le sens de la responsabilité",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/responsability.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Compétences",
+    "description": "La transmission des compétences se trouve au coeur de l'enseignement à l'IFNTI",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/skill.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Excellence",
+    "description": "participe ainsi à l'effort national en offrant à la sous région des formations de haute qualité, à la fois qualifiante pour des compétences techniques et diplômatne",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/excellence.svg",
       "width": 80,
       "height": 80
     }
