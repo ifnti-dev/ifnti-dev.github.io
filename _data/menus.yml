@@ -2,13 +2,13 @@ main:
   - name: "Ifnti"
     url: "/"
     weight: 2
-  - name: "Formation"
+  - name: "La formation"
     url: "/formations/"
     weight: 2
-  - name: "Team"
+  - name: "L'équipe"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "A propos"
     url: "/about/"
     weight: 4
   - name: "Contact"
