@@ -1,7 +1,7 @@
 ---
 title: "Sabirou TEOURI"
 date: 2013-06-15T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/teouri.jpg"
 jobtitle: "Directeur de l'institut"
 linkedinurl: ""
 promoted: true
