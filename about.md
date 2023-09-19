@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Voici une description de notre institut.
 
-# L'histoire de l'IFNTI
+# L'histoire de l'IFNTIsdffdff
 
 L'ifnti a été fondé en 2014 par M. Sabirou TEOURI et M. Jean-Pierre PAILLART.
 
