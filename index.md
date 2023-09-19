@@ -10,6 +10,7 @@ show_call_box: true
 
 # *I*nstitut de *F*ormation aux *N*ormes et *T*echnologies de l'*I*nformatique  
 # IFNTI
+# Ce site en maintenance
 
 Sur ce site, vous trouverez toutes les informations concernant l'IFNTI   
 > **Site en cours de maintenance...**
