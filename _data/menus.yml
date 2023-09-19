@@ -2,7 +2,7 @@ main:
   - name: "Ifnti"
     url: "/"
     weight: 2
-  - name: "La formation"
+  - name: "Formation"
     url: "/formations/"
     weight: 2
   - name: "L'équipe"
