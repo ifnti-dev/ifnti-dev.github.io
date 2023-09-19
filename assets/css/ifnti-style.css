@@ -48,7 +48,7 @@ i {
 }
 #navbarSupportedContent>ul>li.active>a{
 	/* color: #5161ce;  */
-	coloro: white;
+	coloro: green;
 	background-color: transparent;
 	transition: all 0.7s;
 }
