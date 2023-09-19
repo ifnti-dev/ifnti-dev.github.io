@@ -16,7 +16,8 @@ i {
 	color: #fff;
 }
 .navbar-mainbg{
-	background-color: #5161ce;
+	/*background-color: #5161ce;*/
+	background-color: red;
 	padding: 0px;
 }
 #navbarSupportedContent{
