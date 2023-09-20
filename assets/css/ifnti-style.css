@@ -139,7 +139,7 @@ i {
 
 
 @media (max-width: 991px){
-	#main-menu ul li a{
+	#main-menu-mobile ul li a{
 		padding: 12px 30px;
 	}
 	.hori-selector{
