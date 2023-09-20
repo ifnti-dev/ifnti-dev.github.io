@@ -20,22 +20,22 @@ i {
 	background-color: red;
 	padding: 0px;
 }
-#navbarSupportedContent{
+#main-menu{
 	overflow: hidden;
 	position: relative;
 }
-#navbarSupportedContent ul{
+#main-menu ul{
 	padding: 0px;
 	margin: 0px;
 }
-#navbarSupportedContent ul li a i{
+#main-menu ul li a i{
 	margin-right: 10px;
 }
-#navbarSupportedContent li {
+#main-menu li {
 	list-style-type: none;
 	float: left;
 }
-#navbarSupportedContent ul li a{
+#main-menu ul li a{
 	/* color: rgba(255,255,255,0.5);   Couleur des a */
 	color: white;
     text-decoration: none;
@@ -46,13 +46,13 @@ i {
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     position: relative;
 }
-#navbarSupportedContent>ul>li.active>a{
+#main-menu>ul>li.active>a{
 	/* color: #5161ce;  */
 	color: blue;
 	background-color: transparent;
 	transition: all 0.7s;
 }
-#navbarSupportedContent a:not(:only-child):after {
+#main-menu a:not(:only-child):after {
 	content: "\f105";
 	position: absolute;
 	right: 20px;
@@ -65,7 +65,7 @@ i {
 	font-weight: 900;
 	transition: 0.5s;
 }
-#navbarSupportedContent .active>a:not(:only-child):after {
+#main-menu .active>a:not(:only-child):after {
 	transform: rotate(90deg);
 }
 .hori-selector{
@@ -139,7 +139,7 @@ i {
 
 
 @media (max-width: 991px){
-	#navbarSupportedContent ul li a{
+	#main-menu ul li a{
 		padding: 12px 30px;
 	}
 	.hori-selector{
