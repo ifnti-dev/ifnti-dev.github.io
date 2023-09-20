@@ -23,6 +23,11 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/contact/"><i class="far fa-chart-bar"></i>Contacts</a>
                 </li>
+                   {% for item in mainmenu %}
+                   <li class="nav-item {% if item.url == page.url %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                       </li>
+                  {% endfor %}
             </ul>
         </div>
     </nav>
