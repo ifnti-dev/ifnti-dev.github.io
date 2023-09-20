@@ -10,7 +10,7 @@ body{
 i {
 	margin-right: 10px;
 }
-/*----------bootstrap-navbar-css ------------ */
+/*----------bootstrap-navbar-css ------------*/
 .navbar-logo{
 	padding: 15px;
 	color: #fff;
@@ -20,22 +20,22 @@ i {
 	background-color: red;
 	padding: 0px;
 }
-#main-menu{
+#navbarSupportedContent{
 	overflow: hidden;
 	position: relative;
 }
-#main-menu ul{
+#navbarSupportedContent ul{
 	padding: 0px;
 	margin: 0px;
 }
-#main-menu ul li a i{
+#navbarSupportedContent ul li a i{
 	margin-right: 10px;
 }
-#main-menu li {
+#navbarSupportedContent li {
 	list-style-type: none;
 	float: left;
 }
-#main-menu ul li a{
+#navbarSupportedContent ul li a{
 	/* color: rgba(255,255,255,0.5);   Couleur des a */
 	color: white;
     text-decoration: none;
@@ -46,13 +46,13 @@ i {
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     position: relative;
 }
-#main-menu>ul>li.active>a{
+#navbarSupportedContent>ul>li.active>a{
 	/* color: #5161ce;  */
 	color: blue;
 	background-color: transparent;
 	transition: all 0.7s;
 }
-#main-menu a:not(:only-child):after {
+#navbarSupportedContent a:not(:only-child):after {
 	content: "\f105";
 	position: absolute;
 	right: 20px;
@@ -65,7 +65,7 @@ i {
 	font-weight: 900;
 	transition: 0.5s;
 }
-#main-menu .active>a:not(:only-child):after {
+#navbarSupportedContent .active>a:not(:only-child):after {
 	transform: rotate(90deg);
 }
 .hori-selector{
@@ -139,7 +139,7 @@ i {
 
 
 @media (max-width: 991px){
-	#main-menu ul li a{
+	#navbarSupportedContent ul li a{
 		padding: 12px 30px;
 	}
 	.hori-selector{
