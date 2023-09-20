@@ -1,7 +1,7 @@
 // ---------Responsive-navbar-active-animation-----------
 function test(){
-	var tabsNewAnim = $('#navbarSupportedContent');
-	var selectorNewAnim = $('#navbarSupportedContent').find('li').length;
+	var tabsNewAnim = $('#main-menu');
+	var selectorNewAnim = $('#main-menu').find('li').length;
 	var activeItemNewAnim = tabsNewAnim.find('.active');
 	var activeWidthNewAnimHeight = activeItemNewAnim.innerHeight();
 	var activeWidthNewAnimWidth = activeItemNewAnim.innerWidth();
@@ -13,8 +13,8 @@ function test(){
 		"height": activeWidthNewAnimHeight + "px",
 		"width": activeWidthNewAnimWidth + "px"
 	});
-	$("#navbarSupportedContent").on("click","li",function(e){
-		$('#navbarSupportedContent ul li').removeClass("active");
+	$("#main-menu").on("click","li",function(e){
+		$('#main-menu ul li').removeClass("active");
 		$(this).addClass('active');
 		var activeWidthNewAnimHeight = $(this).innerHeight();
 		var activeWidthNewAnimWidth = $(this).innerWidth();
@@ -51,7 +51,7 @@ jQuery(document).ready(function($){
 		path = 'index.html';
 	}
 
-	var target = $('#navbarSupportedContent ul li a[href="'+path+'"]');
+	var target = $('#main-menu ul li a[href="'+path+'"]');
 	// Add active class to target link
 	target.parent().addClass('active');
 });
