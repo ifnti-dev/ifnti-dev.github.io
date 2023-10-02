@@ -21,7 +21,7 @@ Voici la liste des organismes qui participe au développement de l'IFNTI.
 |    France Volontaires       |      Knowbridge             |
 |      Urbis Fondation        |            STE              |
 |     L'univers d'arts        |      Sara Consult           |
-|         ARETHES             |          ITplex             |
+|         ARETHES ![](images/partenaires/arethes.jpeg)            |          ITplex             |
 
 
 ANPE Togo
