@@ -14,7 +14,7 @@ L'ifnti a été fondé en 2014 par M. Sabirou TEOURI et M. Jean-Pierre PAILLART.
 
 # Les partenaires de l'IFNTI
 Voici la liste des organismes qui participe au développement de l'IFNTI.
-
+| <!-- -->    | <!-- -->    |
 | :-------------------------: | :-------------------------: |
 |            GIZ              |         Togocom             |
 |           La DCC            |    Université de Kara       |
