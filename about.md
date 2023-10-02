@@ -26,4 +26,37 @@ Voici la liste des organismes qui participe au développement de l'IFNTI.
 |            *logo*           |            *logo*               |
 |         **ARETHES**         |          __ITplex__             |
 
+
+
+<table>
+<tbody>
+<tr>
+<td markdown="span"> **GIZ** </td>
+<td markdown="span">  __Togocom__ </td>
+</tr>
+<tr>
+<td markdown="span"> **La DCC** </td>
+<td markdown="span">  __Université de Kara__ </td>
+</tr>
+  <tr>
+<td markdown="span"> **France Volontaires** </td>
+<td markdown="span">  __Knowbridge University__  </td>
+</tr>
+  <tr>
+<td markdown="span"> **Urbis Fondation** </td>
+<td markdown="span">  __STE__ </td>
+</tr>
+  <tr>
+<td markdown="span"> **L'univers d'arts** </td>
+<td markdown="span">  __Sara Consult__ </td>
+</tr>
+  <tr>
+<td markdown="span"> **ARETHES** </td>
+<td markdown="span">  __ITplex__ </td>
+</tr>
+</tbody>
+</table>
+
+
+
 ANPE Togo
