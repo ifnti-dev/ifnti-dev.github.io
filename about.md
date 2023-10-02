@@ -17,6 +17,7 @@ Voici la liste des organismes qui participe au développement de l'IFNTI.
 | | |
 | :-------------------------: | :-----------------------------: |
 |            **GIZ**          |         __Togocom__             |
+| <img src="images/partenaires/giz_large.jpg" alt="GIZ" width="150" height="150"/>  | *logo* |
 |           **La DCC**        |    __Université de Kara__       |
 |    **France Volontaires**   |    __Knowbridge University__    |
 |      **Urbis Fondation**    |            __STE__              |
