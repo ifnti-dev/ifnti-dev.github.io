@@ -6,7 +6,8 @@ description: Notre offre de fromation
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
----------------------------------------------------
+
+
 Licence 1
 ---------------------------------------------------
 ## Semestre 1 (L1)
@@ -23,7 +24,7 @@ Licence 1
 - Mathématiques discrètes pour l'informatique
 - Entrepreneuriat, management et Insertion professionnelle
 
----------------------------------------------------
+
 Licence 2
 ---------------------------------------------------
 ## Semestre 3 (L2)
@@ -40,7 +41,7 @@ Licence 2
 - Conception et développement des interfaces graphiques
 - Conception, développement et déploiement des API
 
----------------------------------------------------
+
 Licence 3
 ---------------------------------------------------
 ## Semestre 5 (L3)
