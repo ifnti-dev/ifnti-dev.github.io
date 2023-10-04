@@ -1,18 +1,14 @@
-# Formation
-Voici la maquette de formation à l'IFNTI.
-
 ## Semestre 1 (L1)
-- Intégrité intellectuelle et politiques universitaires
-- English communication and composition
-- Outils technologiques et communication en entreprise
+- Valeurs, politiques universitaires
+- English communications
 - Algèbre linéaire et analyse mathématique
-- Fondement des TI et Architecture des ordinateurs
+- Fondement des Techonolgies de l'Information et Architecture des ordinateurs
 - Programmation, algorithmes et bases de données
 
 ## Semestre 2 (L1)
 - Business English
 - Initiation au développement d'applications
-- Développement des sites web et systèmes de gestion de contenus (CMS)
+- Développement des sites web _( HTML5 / CSS3 )_ et systèmes de gestion de contenus _(CMS)_
 - Mathématiques discrètes pour l'informatique
 - Entrepreneuriat, management et Insertion professionnelle
 
@@ -27,12 +23,10 @@ Voici la maquette de formation à l'IFNTI.
 ## Semestre 4 (L2)
 - Fondements de la cybersécurité
 - Gestion des applications et systèmes d'exploitation
-- Technologies internet et commerces électroniques
+- Gestion des réseaux
 - Conception et développement des interfaces graphiques
 - Conception, développement et déploiement des API
 
-## Stage (L2)
-- Stage en entreprise II OU Projets spéciaux II
 
 ## Semestre 5 (L3)
 - Principe fondamentaux de la recherche
@@ -43,4 +37,4 @@ Voici la maquette de formation à l'IFNTI.
 
 ## Semestre 6 (L3)
 - Spécialité au choix
-- Stage en entreprise III OU Projet de fin d'étude et soutenance
+- Stage en entreprise
