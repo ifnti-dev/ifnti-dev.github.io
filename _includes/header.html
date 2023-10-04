@@ -1,18 +1,12 @@
-<nav class="navbar navbar-expand-custom navbar-mainbg header">
-       <div class="logo">
-             <a href="{{ site.baseurl }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+<div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="{{ site.baseurl }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
     </div>
     <div class="logo-mobile">
-       <a href="{{ site.baseurl }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+      <a href="{{ site.baseurl }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
     </div>
-        <div class="collapse navbar-collapse" id="main-menu">
-            <ul class="navbar-nav ml-auto">
-                <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
-                   {% for item in mainmenu %}
-                    <li class="nav-item {% if item.url == page.url %}active{% endif %}">
-                      <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
-                    </li>
-                  {% endfor %}
-            </ul>
-        </div>
-    </nav>
+    {% include main-menu.html %}
+    {% include hamburger.html %}
+  </div>
+</div>
