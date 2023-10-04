@@ -1,11 +1,10 @@
-<div class="collapse navbar-collapse main-menu" id="main-menu">
-  {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
-  <ul class="navbar-nav ml-auto">
-    <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
+<div id="main-menu" class="main-menu">
+  {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
+  <ul>
     {% for item in mainmenu %}
-      <li class="nav-item {% if item.url == page.url %}active{% endif %}">
-        <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
-      </li>
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+    </li>
     {% endfor %}
   </ul>
 </div>
