@@ -6,26 +6,25 @@ description: Notre offre de fromation
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-
-# La formation à l'IFNTI
-
-Nous proposons une licence en 6 semestres.
-voici un aperçu des cours que vous aurez à l'IFNTI:
-
-## Semestre 1 (L1)
-- Intégrité intellectuelle et politiques universitaires
-- English communication and composition
-- Outils technologiques et communication en entreprise
-- Algèbre linéaire et analyse mathématique
-- Fondement des TI et Architecture des ordinateurs
-- Programmation, algorithmes et bases de données
 ---------------------------------------------------
+Licence 1
+---------------------------------------------------
+## Semestre 1 (L1)
+- Valeurs, politiques universitaires
+- English communications
+- Algèbre linéaire et analyse mathématique
+- Fondement des Techonolgies de l'Information et Architecture des ordinateurs
+- Programmation, algorithmes et bases de données
+
 ## Semestre 2 (L1)
 - Business English
 - Initiation au développement d'applications
-- Développement des sites web et systèmes de gestion de contenus (CMS)
+- Développement des sites web _( HTML5 / CSS3 )_ et systèmes de gestion de contenus _(CMS)_
 - Mathématiques discrètes pour l'informatique
 - Entrepreneuriat, management et Insertion professionnelle
+
+---------------------------------------------------
+Licence 2
 ---------------------------------------------------
 ## Semestre 3 (L2)
 - Probabilités et statistiques
@@ -33,15 +32,16 @@ voici un aperçu des cours que vous aurez à l'IFNTI:
 - Analyse et conception des systèmes orientés objets
 - Gestion des bases de données et Bigdata
 - Conception et développement des applications
----------------------------------------------------
+
 ## Semestre 4 (L2)
 - Fondements de la cybersécurité
 - Gestion des applications et systèmes d'exploitation
-- Technologies internet et commerces électroniques
+- Gestion des réseaux
 - Conception et développement des interfaces graphiques
 - Conception, développement et déploiement des API
-## Stage (L2)
-- Stage en entreprise II OU Projets spéciaux II
+
+---------------------------------------------------
+Licence 3
 ---------------------------------------------------
 ## Semestre 5 (L3)
 - Principe fondamentaux de la recherche
@@ -49,7 +49,7 @@ voici un aperçu des cours que vous aurez à l'IFNTI:
 - Économie et gestion de projets
 - DevOps et déploiement des applications dans le cloud
 - Projet d'entreprise en développement des applications
----------------------------------------------------
+
 ## Semestre 6 (L3)
 - Spécialité au choix
-- Stage en entreprise III OU Projet de fin d'étude et soutenance
+- Stage en entreprise
