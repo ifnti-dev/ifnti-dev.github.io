@@ -1,7 +1,7 @@
 main:
   - name: "Ifnti"
     url: "/"
-    weight: 2
+    weight: 1
   - name: "Formation"
     url: "/formations/"
     weight: 2
