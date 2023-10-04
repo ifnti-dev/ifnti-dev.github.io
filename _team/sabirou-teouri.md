@@ -3,7 +3,7 @@ title: "Sabirou TEOURI"
 date: 2013-06-15T10:47:58+10:00
 image: "images/team/teouri.jpg"
 jobtitle: "Directeur de l'institut"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/sabirou-teouri-604536205/"
 promoted: true
 weight: 1
 ---
