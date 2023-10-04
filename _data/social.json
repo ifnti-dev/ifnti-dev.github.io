@@ -8,5 +8,25 @@
     "name": "Facebook",
     "link": "https://www.facebook.com/people/IFNTI-Sokod%C3%A9-Licence-informatique-LMD/100028389086679/",
     "image": "images/social/facebook.svg"
-  }
+  },
+  {
+    "name": "TikTok",
+    "link": "https://www.tiktok.com/@ifnti_sokode",
+    "image": "images/social/TikTok_logo.svg"
+  },
+  {
+    "name": "Youtube",
+    "link": "https://www.youtube.com/@ifntisokode-licenceinforma7120",
+    "image": "images/social/YouTube_Logo_2017.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/school/ifnti/mycompany/",
+    "image": "images/social/LinkedIn_icon.svg"
+  },
+  {
+    "name": "Ifnti",
+    "link": "https://dev.ifnti.com/",
+    "image": "images/social/logo_ifnti.svg"
+  },
 ]
