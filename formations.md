@@ -2,6 +2,7 @@
 title: La formation
 layout: formations
 intro_image: "images/illustrations/reading.svg"
+second_image: "images/illustrations/work_desk.svg"
 description: Notre offre de fromation
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
